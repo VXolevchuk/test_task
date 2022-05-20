@@ -3,7 +3,6 @@ package com.ukrnet.vx.parser.realisationV1;
 import com.ukrnet.vx.exceptions.DataFormatException;
 import com.ukrnet.vx.evaluator.StringEvaluator;
 
-import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
 class QueryHandlerRunnable implements Runnable{

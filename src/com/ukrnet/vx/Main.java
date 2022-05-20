@@ -7,11 +7,6 @@ import com.ukrnet.vx.parser.realisationV1.StringDataParserRunnable;
 import com.ukrnet.vx.parser.realisationV2.StringDataParserCallable;
 
 import java.io.*;
-import java.nio.ByteBuffer;
-import java.nio.channels.AsynchronousFileChannel;
-import java.nio.channels.CompletionHandler;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.*;
 
 public class Main {
